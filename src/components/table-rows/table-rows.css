@@ -1,0 +1,31 @@
+.green {
+  background-color: rgb(126, 255, 79);
+}
+
+.Checked {
+  background-color: rgb(255, 117, 90);
+}
+
+.ToDo {
+  background-color: rgb(160, 160, 160);
+}
+
+.Checking {
+  background-color: rgb(252, 150, 160);
+}
+
+.InProgress {
+  background-color: rgb(255, 211, 78);
+}
+
+td {
+  text-align: center;
+}
+
+thead tr th {
+  text-align: center;
+}
+
+th:first-child {
+  text-align: start;
+}
